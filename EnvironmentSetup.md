@@ -55,6 +55,8 @@ It is broken down to the following steps:
 
    - Enter the event code: `ND6EKA`
 
+   - **Note:** Your hackathon server will be deleted 1 week after the event. General purpose servers are deleted 120 days after registration.
+
    - Enter an instance name — `DJBlockchain`
 
    - **Select** *SLES12 SP2* for the image.
